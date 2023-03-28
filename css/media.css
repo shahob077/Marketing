@@ -1,0 +1,135 @@
+@media (max-width: 1605px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1320px) {
+    .menu{
+        display: none;
+    }
+}
+@media (max-width: 1290px) {}
+@media (max-width: 1199px) {
+
+}
+@media (max-width: 1140px) {
+    .info__cards{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .info__title{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+
+    }
+}
+@media (max-width: 1024px) {
+    .items-cards{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .header__content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        text-align: center;
+    }
+}
+@media (max-width: 992px) {}
+@media (max-width: 850px) {
+    .info__txt{
+        width: 700px;
+    }
+}
+@media (max-width: 768px) {}
+@media (max-width: 736px) {
+    .info__txt{
+        width: 550px;
+    }
+    .info__title{
+        display: flex;
+        justify-content: center;
+    }
+}
+@media (max-width: 734px) {}
+@media (max-width: 686px) {}
+@media (max-width: 636px) {}
+@media (max-width: 576px) {
+    .footer .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .info__txt{
+        width: 400px;
+    }
+
+    .info__card{
+        display: flex;
+        align-items: center;
+    }
+
+    .footer__email{
+        margin-bottom: 20px;
+    }
+
+@media (max-width: 480px) {}
+@media (max-width: 460px) {}
+@media (max-width: 414px) {
+    .info__txt{
+        width: 350px;
+    }
+
+    .info__title{
+        display: flex;
+        text-align: center;
+    }
+    
+    .header__title{
+        font-size: 40px;
+    }
+
+    .footer__contact{
+        display: flex;
+        align-items: center;
+    }
+}
+@media (max-width: 412px) {
+    .info__txt{
+        width: 300px;
+    }
+}
+@media (max-width: 375px) {}
+@media (max-width: 360px) {
+    .header__title{
+        font-size: 35px;  
+    }
+
+    .header__content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        text-align: center;
+    }
+
+    .footer__title{
+        font-size: 35px;
+    }
+}
+@media (max-width: 320px) {
+    .header__title{
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 310px) {
+    .info__txt{
+        width: 250px;
+    }
+}
