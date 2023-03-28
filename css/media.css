@@ -126,9 +126,7 @@
     .header__title{
         font-size: 40px;
     }
-}
 
-@media (max-width: 310px) {
     .info__txt{
         width: 250px;
     }

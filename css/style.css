@@ -121,7 +121,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url(/img/section/bg.png) center center / cover no-repeat #fff;
+    background: url(../img/section/bg.png) center center / cover no-repeat #fff;
     min-height: 500px;
     max-width: 1110px;
     border-radius: 14px;
